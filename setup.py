@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.WMIPerf_MSSQL"
 VERSION = "2.0.1"
 AUTHOR = "R.Esteve"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.WMIPerf_MSSQL']
 INSTALL_REQUIRES = ['ZenPacks.community.WMIDataSource>=2.7']
